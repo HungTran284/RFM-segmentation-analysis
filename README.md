@@ -8,11 +8,11 @@ AdventureWorks Cycles, a leading multinational bicycle manufacturer and distribu
 ## Objective:
 This dashboard aims to analyze customer behavior and sales performance using RFM (Recency, Frequency, Monetary) metrics. It helps identify AdventureWorks Cycles’ most valuable customers, understand product popularity across different segments, and provide insights for optimizing sales strategies by territory. Key questions include:
 
-Who are the top customers and which segments should the sales team prioritize for long-term relationships?
+- Who are the top customers and which segments should the sales team prioritize for long-term relationships?
 
-Which products are most popular, and how does their performance vary across customer segments?
+- Which products are most popular, and how does their performance vary across customer segments?
 
-How can sales and marketing efforts be optimized across different territories?
+- How can sales and marketing efforts be optimized across different territories?
 
 ## Tools:
 - **SQL Server Management Studio (SSMS):** Used for data extraction, transformation, and modeling. Also wrote SQL queries to analyze sales performance, RFM metrics, product trends, and territory distribution.
