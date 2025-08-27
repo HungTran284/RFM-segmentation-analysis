@@ -51,33 +51,51 @@ This RFM dashboard provides comprehensive insights into customer segments based 
 
 This dashboard highlights product performance across customer segments, helping identify which groups drive order volume and revenue for specific product categories.
 
-<img width="1271" height="717" alt="image" src="https://github.com/user-attachments/assets/26100205-5a47-4848-b956-1a61c46afd67" />
+<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/d9b85c29-ca47-46e0-9c56-6e2c03bfa4e0" />
 
-### High-value Segments (Champions, Loyal Customers)
-- Strongest demand in **Bikes** and **Accessories**, consistently higher than all other segments.  
-- Champions show **order peaks in Bikes**, confirming this as the main revenue driver.  
-- Loyal Customers maintain stable contribution, more consistency compared to Champions.
 
-### Medium-value Segments (Promising, Potential Loyalists, New Customers)
-- **Promising** and **Potential Loyalists** have steady demand across categories which are good candidates for targeted upselling.  
-- **New Customers** are active mainly in **Accessories**, suggesting a low-entry point product for onboarding.  
+### Product & Customer Segments
 
-### At-risk Segments (At Risk, Can’t Lose Them, Need Attention)
-- Still contribute noticeable volume, especially in **Bikes**.  
-- **Can’t Lose Them** shows decline after initial activity, it is in high churn danger if not re-engaged.  
-- **Need Attention** customers spread thin across categories, no strong product preference.  
-
-### Inactive Segments (Lost, Hibernating, About to Sleep)
-- Minimal contribution across all product categories.  
-- **Hibernating** and **Lost** almost negligible so they should not be prioritized in the short term.  
-- **About to Sleep** still has small volume in Accessories but trending downward.  
+- The Water Bottle - 30 oz is the top-selling item across most customer groups, while Mountain-200-Black 38 generates the highest net value, making it a key driver of profitability.
+- The most purchased categories are Accessories and Bikes, confirming their role as the core of AdventureWorks’ product category.
+- Among Champions, orders are distributed relatively evenly across categories, reflecting both strong engagement and diverse interests.
+- In contrast, segments such as Promising and About to Sleep show almost no purchases of Components, likely because these groups have limited need for technical upgrades and prefer more accessible items like accessories or entry-level bikes.
+- Similarly, New Customers, Hibernating, Potential Loyalists, and Lost customers tend not to buy Bikes or Components. This suggests they are either not yet fully engaged or no longer committed, so they avoid high-value items and stick to low-risk, smaller purchases.
+- Purchase activity declines sharply in February, April, and November. This can be explained by seasonal effects: post-holiday slowdowns early in the year, lack of major sales events in mid-year, and anticipation of big promotions like Black Friday at the end of November.
+- A clear contrast appears in May to July, when the number of orders is high but revenue is relatively lower. This indicates that lower-priced products such as clothing and accessories sell particularly well during the summer, while high-value items like bikes contribute less.
+- Another key observation is the parallel movement of revenue and order volume across most months, showing that demand is closely tied to purchase volume under a stable pricing strategy. However, months with divergence, such as summer, highlight opportunities to adjust the product mix seasonally to balance order quantity and profitability.
 
 ## Geographic & Territory Analysis Insight:
-
+This dashboard provides a regional breakdown of customers, revenue, and growth, enabling the Sales Manager to evaluate market performance and uncover high-potential territories.
 <img width="1269" height="716" alt="image" src="https://github.com/user-attachments/assets/6be6d642-02cc-4192-9aea-399ba597b597" />
 
+### Revenue and Customer Segment by Region
+- North America is the dominant region, contributing over 70% of total revenue, with an average revenue per customer of around 8,000. This confirms it as the company’s core market and the main driver of growth.
+- Europe accounts for about 18% of revenue and maintains steady contributions, though the average revenue per customer (3,500) is less than half that of North America. The Pacific region makes up less than 10% and also shows relatively low spending per customer.
+- The revenue trend chart highlights North America’s strong seasonality with sharp peaks, while Europe and Pacific show more gradual and stable growth patterns. This suggests that demand in North America is campaign-driven or event-sensitive, whereas other regions are less volatile but also less profitable.
+- Customer distribution by country shows that segments such as Promising and New Customers are heavily concentrated in U.S. subregions like the Northeast, Southeast, and Southwest, indicating that market penetration is deepest in domestic territories. In contrast, European countries like Germany, France, and the UK show smaller but consistent participation across segments, which could serve as a foundation for long-term expansion.
+- In Australia, the largest groups are Promising (924) and At Risk (670). This suggests that while there is strong acquisition, retention is a challenge, as many customers risk disengagement.
+- Canada has a relatively balanced distribution, but Promising and Hibernating stand out, indicating moderate engagement yet limited conversion into Champions or Loyal Customers.
+- In France and Germany, the majority of customers fall into New Customers and Promising, showing that these markets are still in an early growth phase. The small number of Loyal Customers here suggests that retention strategies are not yet fully effective.
+- For the United Kingdom, Promising (510) and New Customers (321) dominate, but At Risk and Lost segments are also significant. This indicates that while new acquisition is happening, a sizable portion of customers fail to transition into loyal segments.
 
 ## Recommendations:
 
-## Concludsion:
+### For Product Category:
+- In most months, revenue and order volume move together, meaning sales depend mainly on how many items customers buy. But in the summer, this pattern changes, suggesting the product mix should be adjusted seasonally to keep both sales volume and profit balanced.
+- Seasonal adjustments to the product mix are needed to maintain both sales volume and profitability.  
+- Focus on promoting low-entry products (e.g., Accessories, Clothing) during summer to drive conversions.  
+- Introduce cross-selling bundles (e.g., Accessories with Bikes) to increase basket size.  
+- Monitor product lifecycle closely to identify when to refresh or phase out underperforming items.
 
+### For Region:
+- AdventureWorks relies heavily on North America for revenue, but Europe and Pacific represent underdeveloped opportunities. Expanding engagement in these regions, especially by converting Promising and New Customers into Loyal Customers, could help diversify the customer base and reduce dependency on a single market.
+- Engagement strategies should aim to convert Promising and New Customers into Loyal Customers to diversify the customer base.  
+- Launch localized marketing campaigns in Europe and Pacific to build brand presence.  
+- Explore partnerships or regional promotions to accelerate adoption in emerging markets.
+
+## Concludsion:
+- AdventureWorks demonstrates strong sales performance but lacks regional balance.
+- Seasonal demand shifts highlight the need for proactive product mix strategies.
+- Untapped regions such as Europe and Pacific represent key opportunities for expansion.
+- Long-term growth and sustainability depend on both market diversification and improved customer retention.
